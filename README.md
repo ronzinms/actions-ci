@@ -216,7 +216,7 @@ Protected branches ensure that collaborators on your repository cannot make irre
 
 _Almost there! :heart:_
 
-You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge) your pull request!
+_You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge) your pull request!_
 
 ### :keyboard: Activity: Merge your pull request
 
